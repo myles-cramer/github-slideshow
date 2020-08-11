@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Here is my text" $frac{1}{2}$
 Use the left arrow to go back!
